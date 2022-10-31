@@ -435,9 +435,7 @@ footer input{
     .menu-btn{
         display: inline;
     }
-    #click:checked ~ .menu-btn i:before{
-        content: "\food";
-    }
+  
     nav .navigation ul {
         position: fixed;
         top: 0;
